@@ -1,0 +1,3 @@
+[submodule "rasukichi-system"]
+	path = rasukichi-system
+	url = https://github.com/rasukichisama/rasukichi-system.git
